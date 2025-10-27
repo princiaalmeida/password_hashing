@@ -1,0 +1,5 @@
+{
+  "name": "Password Hashing Presentation",
+  "description": "An interactive presentation and demonstration on the principles of password hashing with salt using SHA-256. Covers the aim, theory, procedure, and provides a live demo.",
+  "requestFramePermissions": []
+}
